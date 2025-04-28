@@ -83,11 +83,11 @@ Há dois anos atrás, queria ser ilustradora e surgiu o Chat GPT, e outras intel
 
 
 # GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=luane-loureiro&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=1D3052&background=1D3052&ring=FAB142&fire=FA6D5D&currStreakNum=FAD493&sideNums=FAD493&currStreakLabel=FAD493&sideLabels=FAD493&dates=FAD493&excludeDaysLabel=FAD493)
+![GitHub Streak](https://streak-stats.demolab.com?user=luane-loureiro-dev&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=1D3052&background=1D3052&ring=FAB142&fire=FA6D5D&currStreakNum=FAD493&sideNums=FAD493&currStreakLabel=FAD493&sideLabels=FAD493&dates=FAD493&excludeDaysLabel=FAD493)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luane-loureiro&hide_title=true&card_width=550&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=1D3052&title_color=FAD493&text_color=FAD493&border_radius=5&border_color=1B1E3E&icon_color=1B1E3E&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luane-loureiro-dev&hide_title=true&card_width=550&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=1D3052&title_color=FAD493&text_color=FAD493&border_radius=5&border_color=1B1E3E&icon_color=1B1E3E&theme=jolly)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro&layout=donut&bg_color=1D3052&title_color=FAD493&text_color=FAD493&border_radius=5&border_color=1B1E3E&icon_color=BE86)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luane-loureiro-dev&layout=donut&bg_color=1D3052&title_color=FAD493&text_color=FAD493&border_radius=5&border_color=1B1E3E&icon_color=BE86)
 
 
 # Certificados
